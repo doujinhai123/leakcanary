@@ -2,7 +2,6 @@ apply plugin: 'com.android.library'
 
 dependencies {
   api project(':leakcanary-android')
-  implementation 'com.android.support.test:runner:1.0.2'
 }
 
 android {
